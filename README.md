@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @00-2906
-- 👀 I’m interested in coding in c++ language 
+- 👋 Hi, I’m Hamna
+- 👀 I’m interested in coding in c++ language and other as well
 - 🌱 I’m currently learning object oriented programming in c++
 - 💞️ I’m looking to collaborate on c++ projects 
 - 📫 How to reach me through my github profile 
